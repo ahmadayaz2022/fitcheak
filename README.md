@@ -14,13 +14,20 @@ Check out the live app hosted on Hugging Face Spaces:
 - 💡 Clean and modern user interface with custom styling
 - 🌐 Deployed for public access on Hugging Face Spaces
 
+
 ## 📸 Screenshot
--  Obese
-![Fitcheak Screenshot](screenshot.png)
-- UnderWeight
-![Fitcheak Screenshot](screenshot2.png)
-- HealthyWeight
-![Fitcheak Screenshot](screenshot3.png)
+
+### ⚠️ Obese Category
+![Obese](screenshot.png)
+
+### ⚠️ Underweight Category
+![Underweight](screenshot2.png)
+
+### ✅ Healthy Weight Category
+![Healthy](screenshot3.png)
+
+
+
 ## 🛠️ Technologies Used
 
 - **Python 3**
