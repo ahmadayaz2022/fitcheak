@@ -18,13 +18,13 @@ Check out the live app hosted on Hugging Face Spaces:
 ## 📸 Screenshot
 
 ### ⚠️ Obese Category
-![Obese](screenshot)
+![Obese](Screenshot.png)
 
 ### ⚠️ Underweight Category
-![Underweight](screenshot2)
+![Underweight](Screenshot2.png)
 
 ### ✅ Healthy Weight Category
-![Healthy](screenshot3)
+![Healthy](Screenshot3.png)
 
 
 
