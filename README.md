@@ -27,10 +27,6 @@ Check out the live app hosted on Hugging Face Spaces:
 - **Streamlit**
 - **Hugging Face Spaces** (for deployment)
 
-## 📦 Installation & Run Locally
-
-To run this project on your local machine:
-
 
 ## 📁 Project Structure
 
@@ -61,6 +57,12 @@ Ahmad Ayaz
 👉 [🌐Github](https://github.com/ahmadayaz2022)
 [🔗 LinkedIn](https://www.linkedin.com/in/ahmadayaz99/)
 
+
+
+
+## 📦 Installation & Run Locally
+
+To run this project on your local machine:
 ```bash
 # Clone the repository
 git clone https://github.com/ahmadayaz2022/fitcheak.git
